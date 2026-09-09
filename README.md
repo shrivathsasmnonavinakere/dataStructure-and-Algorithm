@@ -6,6 +6,7 @@ leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -19,4 +20,12 @@ leetcode questions
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
