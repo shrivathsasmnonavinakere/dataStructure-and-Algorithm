@@ -36,4 +36,9 @@ leetcode questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
+| [3033-modify-the-matrix](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/3033-modify-the-matrix) |
+## Matrix
+|  |
+| ------- |
+| [3033-modify-the-matrix](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/3033-modify-the-matrix) |
 <!---LeetCode Topics End-->
