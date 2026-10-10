@@ -15,6 +15,7 @@ leetcode questions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -25,9 +26,14 @@ leetcode questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
