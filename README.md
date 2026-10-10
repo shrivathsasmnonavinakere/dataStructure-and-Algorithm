@@ -22,6 +22,7 @@ leetcode questions
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +47,13 @@ leetcode questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
