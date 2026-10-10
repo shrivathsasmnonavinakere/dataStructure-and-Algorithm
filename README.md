@@ -21,6 +21,7 @@ leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -37,6 +38,7 @@ leetcode questions
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
 | [3033-modify-the-matrix](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/3033-modify-the-matrix) |
 ## Matrix
@@ -46,6 +48,7 @@ leetcode questions
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -56,4 +59,8 @@ leetcode questions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
