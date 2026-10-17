@@ -1,36 +1,35 @@
+
+        
 class Solution {
 public:
     int trap(vector<int>& height) {
-        stack<int>st;
-        
-      
+        int left = 0;
+        int right = height.size() - 1;
 
-        int sum=0;
-        for(int i=0;i<height.size();i++){
-           
-            
-            while(!st.empty() &&height[ st.top()]<=height[i]){
-            
-                int bottom=st.top();
-                st.pop();
-                if(st.empty()){
-                    break;
+        int leftMax = 0;
+        int rightMax = 0;
+        int water = 0;
+
+        while (left < right) {
+            if (height[left] < height[right]) {
+                if (height[left] >= leftMax) {
+                    leftMax = height[left];
+                } else {
+                    water += leftMax - height[left];
                 }
-
-                int width=i-st.top()-1;
-                
-                int height1=min(height[i],height[st.top()])-height[bottom];
-
-                sum=sum+height1*width;
-        
+                left++;
+            } else {
+                if (height[right] >= rightMax) {
+                    rightMax = height[right];
+                } else {
+                    water += rightMax - height[right];
+                }
+                right--;
             }
-            st.push(i);
-            
         }
 
+        return water;
+    
 
-        return sum;
-        
-        
     }
 };
