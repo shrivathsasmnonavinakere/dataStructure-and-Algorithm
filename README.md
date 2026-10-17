@@ -14,6 +14,7 @@ leetcode questions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@ leetcode questions
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
 | [3033-modify-the-matrix](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/3033-modify-the-matrix) |
@@ -63,4 +65,16 @@ leetcode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
