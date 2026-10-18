@@ -42,10 +42,12 @@ leetcode questions
 | [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
+| [0498-diagonal-traverse](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0498-diagonal-traverse) |
 | [3033-modify-the-matrix](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/3033-modify-the-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0498-diagonal-traverse) |
 | [3033-modify-the-matrix](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/3033-modify-the-matrix) |
 ## String
 |  |
@@ -77,4 +79,8 @@ leetcode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
