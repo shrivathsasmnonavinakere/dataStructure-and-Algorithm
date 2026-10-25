@@ -43,6 +43,7 @@ leetcode questions
 | [0049-group-anagrams](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0498-diagonal-traverse](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0498-diagonal-traverse) |
+| [0907-sum-of-subarray-minimums](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [3033-modify-the-matrix](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/3033-modify-the-matrix) |
 ## Matrix
 |  |
@@ -71,14 +72,17 @@ leetcode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0907-sum-of-subarray-minimums](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0907-sum-of-subarray-minimums](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0907-sum-of-subarray-minimums](https://github.com/shrivathsasmnonavinakere/dataStructure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
